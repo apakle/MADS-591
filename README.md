@@ -1,2 +1,2 @@
-# MADS-591
+# SIADS 591 & 592 - Milestone I
  
