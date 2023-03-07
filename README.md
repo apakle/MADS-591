@@ -1,6 +1,6 @@
 # Happiness and Life Expectancy
 
-The study was conducted as milestone project in the Master of Applied Data Science program from the University of Michigan.
+EDA as milestone project in the Master of Applied Data Science program from the University of Michigan.
 
 By Andre Kleber & Trevor McCalmont
  
